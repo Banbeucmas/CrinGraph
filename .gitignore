@@ -1,4 +1,4 @@
 config.js
 config_hp.js
-data/
-data_hp/
+data/*
+data_hp/*
